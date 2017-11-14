@@ -61,7 +61,7 @@ If you checkout this [commit](https://github.com/collective/plone-angular-demo/c
 
 If you are having issues, please let us know.
 
-Use thissue tracker https://github.com/plone/plone.restapi-angular/issues
+Use the issue tracker https://github.com/plone/plone.restapi-angular/issues
 
 ## License
 
